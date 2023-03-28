@@ -3,7 +3,7 @@
 
 - 👨‍💻 Hoje trabalho como Professor no Curso Qualifica-DF ministro o Curso de Desenvolvimento de Aplicativos Android Nativo
 - 📚 Curso Engenharia de Software - UCB 2/8
-- 💡 Sou viciado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
+- 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
 -->
 
 <a href="https://github.com/Matheus-Inacioal/github-readme-stats">
